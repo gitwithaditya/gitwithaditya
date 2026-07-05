@@ -46,8 +46,8 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitwithaditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithaditya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gitwithaditya&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithaditya&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gitwithaditya&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gitwithaditya&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
