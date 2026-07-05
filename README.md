@@ -46,11 +46,8 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 ## 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gitwithaditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithaditya&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -58,9 +55,7 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=gitwithaditya&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -68,9 +63,7 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=gitwithaditya&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
 </p>
 
 ---
@@ -114,13 +107,11 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 ## 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/gitwithaditya/gitwithaditya/output/github-snake-dark.svg"/>
-
 </p>
 
 ---
 
-<h3 align="center">
-
-✨
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer&text=Adapt.%20Learn.%20Build.%20Repeat.&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+</p>
