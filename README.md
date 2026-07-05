@@ -16,31 +16,29 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 
 💻 Passionate about solving problems through code and building scalable backend applications.
 
-🌱 Currently learning **Node.js, Express.js, MongoDB, React** and strengthening my **Backend Development** skills.
+🌱 Currently learning **Node.js, Express.js, MongoDB, React** while strengthening my **Backend Development** skills.
 
-📚 Solving **Data Structures & Algorithms in C++** consistently.
+📚 Solving **Data Structures & Algorithms (DSA)** in **C++** consistently.
 
-🎯 Career Goal: **Software Development Engineer (SDE) | Backend Developer | Full Stack Developer**
+🎯 Aspiring **Software Development Engineer (SDE)** | **Backend Developer** | **Full Stack Developer**
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,mysql,vscode" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,mysql,vscode,nodejs,express,mongodb,react" />
 </p>
 
 ---
 
 ## 🚀 Currently Learning
 
+- Backend Development
 - Node.js
 - Express.js
 - MongoDB
 - React
-- Backend Development
 - Advanced Data Structures & Algorithms
 
 ---
@@ -49,9 +47,9 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gitwithaditya&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitwithaditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithaditya&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithaditya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -61,7 +59,7 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=gitwithaditya&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gitwithaditya&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -71,7 +69,7 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gitwithaditya&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gitwithaditya&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -79,13 +77,15 @@ Aspiring Software Development Engineer | Backend Enthusiast | ECE @ IIIT Bhagalp
 
 ## 💡 Coding Profiles
 
-<p align="left">
+<p align="center">
 
-💻 **LeetCode**  
-https://leetcode.com/u/codewithadiiii/
+<a href="https://leetcode.com/u/codewithadiiii/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-⚔️ **Codeforces**  
-https://codeforces.com/profile/adityaaa2025
+<a href="https://codeforces.com/profile/adityaaa2025" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
 </p>
 
@@ -93,9 +93,7 @@ https://codeforces.com/profile/adityaaa2025
 
 ## 📫 Contact
 
-📧 Personal Email
-
-upadhyayaditya469@gmail.com
+📧 **Email:** upadhyayaditya469@gmail.com
 
 ---
 
@@ -125,6 +123,4 @@ upadhyayaditya469@gmail.com
 
 <h3 align="center">
 
-✨ Adapt. Learn. Build. Repeat.
-
-</h3>
+✨
